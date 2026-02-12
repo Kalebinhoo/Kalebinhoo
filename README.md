@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Kevin matos
+# 👨🏽‍💻 Kevin
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Kevin, tenho 15 anos e sou natural de Piracicaba-SP. Estou no 1° do ensino médio, apenas estudando área de programação. Desde novo gosto muito de tecnologia e compartilho meu conhecimento através do meu discord "[Kalebinho0806](https://discord.com/users/1324198892648009760)", onde eu mostro eu uso como uma forma de ganhar uma renda apenas ajudando e criando novos projetos, e também através do Instagram, com o perfil chamado "[Kevin.devvv](https://www.instagram.com/kevin.devvv/)".
 
