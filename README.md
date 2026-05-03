@@ -131,5 +131,5 @@ Me chamo Kevin, tenho 15 anos e sou natural de Piracicaba-SP. Estou no 1° do en
     title="Discord.py"
     width="400px" 
     style="padding-right: 10px;" 
-    src="https://lanyard.kyrie25.dev/api/1324198892648009760"
+    src="https://lanyard.kyrie25.dev/api/1373658983704825989"
 />
