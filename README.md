@@ -44,19 +44,6 @@ Desenvolvedor FullStack júnior com 5 anos de experiência, criador de bots pion
 
 ---
 
-### 🔗 Links Rápidos
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-@kevin.devvv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevin.devvv/)
-[![Discord](https://img.shields.io/badge/Discord-@.Cameoux-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1373658983704825989)
-[![Estrelas](https://custom-icon-badges.demolab.com/github/stars/Kalebinhoo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas)](https://github.com/Kalebinhoo?tab=repositories&sort=stargazers)
-[![Seguidores](https://custom-icon-badges.demolab.com/github/followers/Kalebinhoo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/Kalebinhoo?tab=followers)
-
-</div>
-
----
-
 <div align="center">
 
 [![Discord Presence](https://lanyard.kyrie25.dev/api/1373658983704825989?showDisplayName=true&forceGradient=false&animatedDecoration=true&hideDecoration=false&hideStatus=false&imgStyle=circle&theme=dark)](https://discord.com/users/1373658983704825989)
