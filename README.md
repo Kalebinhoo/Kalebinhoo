@@ -16,7 +16,7 @@ Desenvolvedor FullStack júnior com 5 anos de experiência, criador de bots pion
 ### 🛠️ Linguagens e Tecnologias
 
 #### Linguagens
-[![My Skills](https://skillicons.dev/icons?i=bun,c,cpp,cs,css,elixir,go,html,java,js,kotlin,lua,md,php,python,ts&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css&perline=3)](https://skillicons.dev)
 
 #### Frameworks e Bibliotecas
 [![My Skills](https://skillicons.dev/icons?i=django,dotnet,express,fastapi,godot,haxeflixel,nextjs,nodejs,react,wordpress&perline=3)](https://skillicons.dev)
