@@ -36,9 +36,9 @@ Desenvolvedor FullStack júnior com 5 anos de experiência, criador de bots pion
 
 <div align="center">
 
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalebinhoo&show_icons=true&theme=dark&count_private=true&include_all_commits=true&line_height=200)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalebinhoo&theme=dark&layout=compact&langs_count=10)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Kalebinhoo&query=$.public_repos&label=Repos&color=blue&style=flat-square)
+![Followers](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Kalebinhoo&query=$.followers&label=Followers&color=blue&style=flat-square)
+![Following](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Kalebinhoo&query=$.following&label=Following&color=blue&style=flat-square)
 
 </div>
 
