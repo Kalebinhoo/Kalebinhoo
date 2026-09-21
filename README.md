@@ -16,19 +16,19 @@ Desenvolvedor FullStack júnior com 5 anos de experiência, criador de bots pion
 ### 🛠️ Linguagens e Tecnologias
 
 #### Linguagens
-[![My Skills](https://skillicons.dev/icons?i=bun,c,cpp,cs,css,elixir,go,html,java,js,kotlin,lua,md,php,python,ts&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bun,c,cpp,cs,css,elixir,go,html,java,js,kotlin,lua,md,php,python,ts&perline=3)](https://skillicons.dev)
 
 #### Frameworks e Bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=django,dotnet,express,fastapi,godot,haxeflixel,nextjs,nodejs,react,wordpress&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,dotnet,express,fastapi,godot,haxeflixel,nextjs,nodejs,react,wordpress&perline=3)](https://skillicons.dev)
 
 #### Sistemas Operacionais
-[![My Skills](https://skillicons.dev/icons?i=kali,linux,mint,windows&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,mint,windows&perline=3)](https://skillicons.dev)
 
 #### Ferramentas e Plataformas
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,cloudflare,gcp&perline=3)](https://skillicons.dev)
 
 #### Bancos de Dados
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=3)](https://skillicons.dev)
 
 ---
 
