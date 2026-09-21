@@ -15,7 +15,20 @@ Desenvolvedor FullStack júnior com 5 anos de experiência, criador de bots pion
 
 ### 🛠️ Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bun,c,cpp,cs,elixir,go,kotlin,lua,md,php,python,ts&perline=15)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=django,dotnet,express,fastapi,godot,haxeflixel,nextjs,nodejs,react,wordpress&perline=10)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=kali,linux,mint,windows&perline=5)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=aws,azure,cloudflare,gcp&perline=4)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=3)](https://skillicons.dev)
+#### Linguagens
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bun,c,cpp,cs,elixir,go,kotlin,lua,md,php,python,ts&perline=15)](https://skillicons.dev)
+
+#### Frameworks e Bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=django,dotnet,express,fastapi,godot,haxeflixel,nextjs,nodejs,react,wordpress&perline=10)](https://skillicons.dev)
+
+#### Sistemas Operacionais
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,mint,windows&perline=5)](https://skillicons.dev)
+
+#### Ferramentas e Plataformas
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,cloudflare,gcp&perline=4)](https://skillicons.dev)
+
+#### Bancos de Dados
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=3)](https://skillicons.dev)
 
 ---
 
